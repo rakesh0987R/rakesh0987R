@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m currently sturdying At **Colorado State University**
+- 👯 I’m currently sturdying At **Saint Louis University**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/tenalirakesh](https://www.datascienceportfol.io/tenalirakesh)
 
